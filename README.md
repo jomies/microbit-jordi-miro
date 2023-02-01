@@ -1,3 +1,6 @@
+## Descripció de l'aplicació
+
+El codi interactua con el usuario de tal manera que le pregunta datos por teclado y luego realiza el calculo de hypotenusa.
 
 > Abra esta pagina en [https://jomies.github.io/microbit-jordi-miro/](https://jomies.github.io/microbit-jordi-miro/)
 
@@ -29,3 +32,5 @@ Esta imagen puede tardar unos minutos en actualizarse.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+
